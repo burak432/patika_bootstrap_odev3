@@ -1,0 +1,19 @@
+.mavi {
+    background-color: #C4E2FF;
+}
+
+.borderbttm {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.navbar {
+    height: 5em;
+}
+
+.alegreya {
+    font-family: 'Alegreya', serif;
+    letter-spacing: -0.05em;
+}
+
+.giris {
+}
