@@ -4,10 +4,11 @@
 
 .borderbttm {
     border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+    width: 100%;
 }
 
-.navbar {
-    height: 5em;
+nav {
+    /* height: 5em; */
 }
 
 .alegreya {
@@ -17,3 +18,4 @@
 
 .giris {
 }
+
